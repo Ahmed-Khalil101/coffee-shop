@@ -121,17 +121,17 @@ renderProducts();
 // review
 const reviews = [
     {
-        name: 'Ahmed Mahmoud',
+        name: 'layan Ismail',
         text: 'Best coffee in Cairo! Rich flavor and great service.',
         img: 'images/pic-1.png'
     },
     {
-        name: 'Sara Ali',
+        name: 'Ahmed Khalil',
         text: 'I come here every morning. The baristas are true artists!',
         img: 'images/pic-2.png'
     },
     {
-        name: 'Omar Khaled',
+        name: 'Lara Ismail',
         text: 'Fresh coffee every day. Amazing taste and fair prices!',
         img: 'images/pic-3.png'
     }
