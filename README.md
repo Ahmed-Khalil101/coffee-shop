@@ -1,35 +1,44 @@
-<h1 align="center">🛒 E-Commerce Website</h1>
+# ☕ Coffee Shop Website
 
-<p align="center">
-A clean and modern front-end e-commerce layout built using HTML, CSS, and JavaScript.
-</p>
+A modern and responsive Coffee Shop website built using **HTML, CSS, and JavaScript**.  
+The website includes a fully functional **shopping cart system**, dynamic menus, product listings, customer reviews, and a mobile-friendly navigation menu.
 
-
-## 📌 Overview
-
-This project is a fully responsive front-end e-commerce template designed to deliver a smooth and user-friendly shopping experience.  
-It includes essential UI components such as a landing section, product listings, a functional cart interface, customer reviews, and a simple contact form.  
-The layout is built with clean code, modern design principles, and subtle animations to provide a professional look suitable for real-world e-commerce platforms.
-
+---
 
 ## 🚀 Features
 
-- **Landing Page** – visually appealing and user-friendly design.
-- **Shopping Cart** – add, remove, and view items with automatic total price calculation.
-- **Products Section** – displays products in a structured, responsive grid.
-- **Customer Reviews** – simple testimonials with clean formatting.
-- **Contact Form** – basic client-side contact form.
-- **Responsive Design** – optimized for all screen sizes.
-- **Animations & Hover Effects** – smooth transitions for interactive elements.
-- **Search Box** – quickly search products and menu items.
+### 🛒 Shopping Cart
+- Add items to the cart from the menu and products sections.
+- Remove items directly inside the cart popup.
+- Automatic total price calculation.
+- Item quantity tracking.
+- Animated cart popup toggle.
 
+### 🍽️ Dynamic Menu Rendering
+- Menu items are generated dynamically from a JavaScript data array.
+- Prices include both discounted and original prices.
+- Add to cart button for every menu item.
 
-## 🛠️ Technologies Used
+### 📦 Product Section
+- Coffee beans/products rendered from JS data.
+- Each product has ratings, image, old/new price, and cart icon.
+- Add products directly to cart.
 
-- HTML5
-- CSS3
-- JavaScript (Vanilla JS)
-- Google Fonts – Poppins
-- Font Awesome Icons
+### ⭐ Customer Reviews
+- Reviews rendered dynamically from a JS array.
+- Includes user image, quote icon, name, and text.
 
+### 📱 Mobile Friendly Navigation
+- Hamburger menu toggle for small screens.
+- Smooth open/close animation.
 
+---
+
+## 🧩 Technologies Used
+- **HTML5**
+- **CSS3**
+- **JavaScript (Vanilla JS)**
+- **Font Awesome Icons**
+- **Google Fonts**
+
+---
