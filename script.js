@@ -87,9 +87,9 @@ renderMenu();
 
 // products
 const productsData = [
-    { id: 11, name: 'Nicaragua Premium Beans', price: 35.99, old: 49.99, img: 'images/product-1.png' },
-    { id: 12, name: 'Colombia Dark Roast', price: 38.99, old: 52.99, img: 'images/product-2.png' },
-    { id: 13, name: 'Peru Organic Blend', price: 42.99, old: 58.99, img: 'images/product-3.png' }
+    { id: 11, name: 'Flat White', price: 35.99, old: 49.99, img: 'images/product-1.png' },
+    { id: 12, name: 'Cappuccino', price: 38.99, old: 52.99, img: 'images/product-2.png' },
+    { id: 13, name: 'Mocha Frappuccino', price: 42.99, old: 58.99, img: 'images/product-3.png' }
 ];
 
 function renderProducts() {
